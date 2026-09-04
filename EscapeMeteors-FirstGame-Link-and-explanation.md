@@ -2,7 +2,7 @@
 
 **My first game — in development from January 2026, ongoing into September 2026 and beyond.**
 
-Survive an endless storm of meteors, dodge and outlast increasingly brutal waves, unlock skins with your mini robot companion, and push your luck all the way to **Impossible Difficulty**.
+Survive an endless storm of meteors, dodge and outlast increasingly brutal waves, unlock skins with your mini robot companion and your drone that vanishes the meteors, and push your luck all the way to **Impossible Difficulty**.
 
 **▶️ [Play Escape Meteors now](https://www.astrocade.com/games/escape-meteors/01KJ4HPJCP1WB0HJM9J6X90F2M?sharedByCreator=UsairimKamalYT&surface=web&sharePlatform=copylink&shareId=108fd7f1-4fbf-4e44-b698-468e6ed225c2&shareOrigin=editor)**
 
